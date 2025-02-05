@@ -1,0 +1,35 @@
+
+body {
+    background-color: #d5e1ef;
+    font-family: "Outfit", sans-serif;
+}
+
+div {
+    box-sizing: border-box;
+    background-color: white;
+    width: 320px;
+    padding: 16px 16px 40px;
+    border-radius: 20px;
+    margin: 152px auto 0;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+h1 {
+   color: #1f314f;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    margin: 24px 0 16px;
+}
+p {
+    color: #7d889e;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.19px;
+    margin: 0;
+
+}
